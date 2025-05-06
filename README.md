@@ -15,11 +15,11 @@ This section documents the Git commands and screenshots for the assignment.
 - Added documentation: `git commit -m "Add README with assignment documentation"`
 
 ### Screenshots
-- [Git Status](Git_Screenshots/GitStatus.png)
-- [Git Commit](Git_Screenshots/GitCommit.png)
-- [Git Remote](Git_Screenshots/GitRemote.png)
-- [Git Push](Git_Screenshots/GitPush.png)
-- [Git Add](Git_Screenshots/GitAdd.png)
+- **Git status**: ![Git Status](Git_Screenshots/GitStatus.png)
+- **Git commit**: ![Git Commit](Git_Screenshots/GitCommit.png)
+- **Git remote**: ![Git Remote](Git_Screenshots/GitRemote.png)
+- **Git Push**: ![Git Push](Git_Screenshots/GitPush.png)
+- **Git Add**: ![Git Add](Git_Screenshots/GitAdd.png)
 
 ### Repository URL
 [https://github.com/Dowlib1/Pweb](https://github.com/Dowlib1/Pweb)
