@@ -19,7 +19,7 @@ This section documents the Git commands and screenshots for the assignment.
 - [Git Commit]/Git_Screenshots/GitCommit.png)
 - [Git Remote](/Git_Screenshots/GitInit.png)
 - [Git Push](/Git_Screenshots/GitPush.png)
-- [GitHub Dashboard](/Git_Screenshots/GitAdd.png)
+- [Git add](/Git_Screenshots/GitAdd.png)
  [Git Push](/Git_Screenshots/GitPull.png)
  
 ### Repository URL
